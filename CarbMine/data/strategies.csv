@@ -1,0 +1,16 @@
+strategy,category,impact_level,estimated_reduction_tco2e,description,sector
+Solar Power Integration,Renewable Energy,High,0.20,Install rooftop or ground-mounted PV or execute a solar PPA to displace grid electricity intensity,mining
+Wind PPA Contract,Renewable Energy,High,0.25,Sign a long-term wind energy PPA to stabilize costs and cut Scope 2 emissions for high-load operations,mining
+LED Lighting Retrofits,Energy Efficiency,Medium,0.08,Replace halogen and fluorescent lighting with LED and controls for significant electricity savings,industrial
+High-Efficiency Motors & VFDs,Energy Efficiency,High,0.12,Upgrade to premium motors and add variable frequency drives to reduce process electricity use,industrial
+Heat Recovery from Compressors,Energy Efficiency,Medium,0.06,Capture waste heat for water/space heating lowering fuel consumption in facilities,industrial
+Process Optimization & Maintenance,Energy Efficiency,Medium,0.05,Implement condition-based maintenance, leak detection, and right-sizing to trim baseline loads,mining
+Carbon Offsetting via Forestry,Offset Projects,Medium,0.15,Purchase verified afforestation credits to balance hard-to-abate emissions across operations,cross-sector
+Landfill Gas or Biogas Offsets,Offset Projects,Medium,0.10,Source offsets from methane capture projects to counter residual Scope 1 emissions,cross-sector
+CCUS Feasibility Study,Carbon Capture,Low,0.05,Assess capture-readiness for process streams and plan pilot deployment where concentrated CO2 exists,industrial
+Fuel Switching to Natural Gas,Energy Efficiency,Medium,0.10,Switch from coal/diesel to natural gas where feasible to reduce combustion emissions,industrial
+Onsite Battery Storage,Renewable Energy,Low,0.04,Add storage to increase self-consumption of renewables and shave peak demand,mining
+Electrify Mobile Equipment,Energy Efficiency,High,0.18,Transition diesel haulage and loaders to battery-electric or trolley assist systems,mining
+Behavioral & Policy Program,Policy/Behavioral,Low,0.03,Launch training and incentives for low-carbon practices including idle reduction and setpoint control,cross-sector
+Green Procurement Policy,Policy/Behavioral,Low,0.02,Adopt supplier standards for low-carbon materials and logistics to reduce embedded emissions,cross-sector
+
