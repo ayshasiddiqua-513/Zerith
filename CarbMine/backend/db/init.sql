@@ -1,0 +1,14 @@
+CREATE DATABASE IF NOT EXISTS zerith_db CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+USE zerith_db;
+
+CREATE TABLE IF NOT EXISTS pdf_reports (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  uid VARCHAR(128) NOT NULL,
+  filename VARCHAR(255) NOT NULL,
+  url TEXT NOT NULL,
+  size_bytes INT NOT NULL,
+  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+  INDEX idx_uid (uid)
+);
+
+
